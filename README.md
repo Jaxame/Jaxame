@@ -14,7 +14,7 @@
 </ul>
 
 </br>
-<p>
+<p align="center">
  <!--- <img width=200 height=200 src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/> --->
   <img align="center" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" height="300"/>
 </p>
