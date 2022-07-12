@@ -9,14 +9,14 @@
   <li>📄 For details on my scientific background, please visit my linkedin french resume; it can be found <a href="https://www.linkedin.com/in/jacky-ame-731595183/">here</a></li>
   <li>🧗 Sports: running, former champion of Brittany in archery</li>
   <li>❤️ I love to see fantasy and sci-fi movies.
-  <li>👀 I’m interested in finding answers to existential questions about religion, spirituality and our presence on this earth<\li>
+  <li>👀 I’m interested in finding answers to existential questions about religion, spirituality and our presence on this earth</li>
   <li>📫 If you want to send me an email : jacky.ame@orange.fr</li>
 </ul>
 
 </br>
 <p align="center">
   <img width=200 height=200 src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
-  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="205" src="https://giphy.com/embed/KxOl63T54r3xuNYIvG/video" width="480"></iframe></div>
+  <img height=205 width=480 src="https://giphy.com/embed/KxOl63T54r3xuNYIvG/video"/>
 </p>
 
 <!---
