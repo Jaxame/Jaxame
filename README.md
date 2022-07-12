@@ -16,7 +16,7 @@
 </br>
 <p align="center">
   <img width=200 height=200 src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/>
-  <img height=205 width=480 src="https://giphy.com/embed/KxOl63T54r3xuNYIvG/video"/>
+  <div style="width:100%"><div style="height:0;padding-bottom:42.65625%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/KxOl63T54r3xuNYIvG/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
 </p>
 
 <!---
