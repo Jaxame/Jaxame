@@ -16,7 +16,7 @@
 </br>
 <p align="center">
  <!--- <img width=200 height=200 src="https://c.tenor.com/OoQlWsxH2SEAAAAC/hi-anime-hello.gif"/> --->
-  <img align="center" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400" height="400"/>
+  <img align="center" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200" height="400"/>
 </p>
 
 <!---
